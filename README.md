@@ -10,7 +10,7 @@ I care about things that run in production, not just things that run in notebook
 
 ---
 
-## What I'm building
+# What I'm building
 
 Right now I'm focused on:
 
