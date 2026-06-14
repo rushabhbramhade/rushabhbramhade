@@ -1,5 +1,4 @@
 ## Hey there 👋
-
 I'm **Rushabh**, an Applied AI Engineer based.
 
 I build production-grade AI systems — not demos, not prototypes.  
@@ -10,7 +9,7 @@ I care about things that run in production, not just things that run in notebook
 
 ---
 
-# What I'm building
+## What I'm building
 
 Right now I'm focused on:
 
