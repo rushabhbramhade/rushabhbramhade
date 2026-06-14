@@ -1,4 +1,4 @@
-# Hey there 👋
+## Hey there 👋
 
 I'm **Rushabh**, an Applied AI Engineer based.
 
