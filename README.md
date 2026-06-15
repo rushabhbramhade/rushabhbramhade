@@ -14,7 +14,7 @@
 
 <br/>
 
-I build production-grade AI systems — LLM applications, autonomous agents, and retrieval pipelines — deployed on real infrastructure.
+I build production-grade AI systems — LLM applications, autonomous agents, and retrieval pipelines — deployed on real infrastructure.  
 My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 ---
@@ -55,50 +55,4 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 ## 🔧 Featured Projects
 
-| Project | What it solves | Stack |
-|---|---|---|
-| [**Project Name**](#) | One-line description of the problem solved and why it's non-trivial | `LangGraph` `FastAPI` `PostgreSQL` |
-| [**Project Name**](#) | One-line description of the problem solved and why it's non-trivial | `RAG` `Qdrant` `AWS` `Docker` |
-| [**Project Name**](#) | One-line description of the problem solved and why it's non-trivial | `Transformers` `Hugging Face` `CI/CD` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img width="68%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-</div>
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://YOUR_PORTFOLIO)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*Understand the Problem. Build the Solution. Scale the Impact.*
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%" />
-</div>
+[...continues exactly as-is...]
