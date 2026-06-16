@@ -17,7 +17,6 @@
 I build production-grade AI systems LLM applications, autonomous agents, and retrieval pipelines deployed on real infrastructure.  
 My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
----
 
 ## ⚡ Current Focus
 
@@ -26,7 +25,6 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 - Shipping **LLM-powered backends** with FastAPI, async queues, and structured output
 - Applying **MLOps practices** — CI/CD for AI, experiment tracking, deployment automation
 
----
 
 ## 🛠 Stack
 
@@ -71,7 +69,6 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 </div>
 
----
 
 ## 🔧 Featured Projects
 
@@ -151,8 +148,6 @@ CI/CD for AI models — automated training, model versioning, experiment trackin
 
 <br/>
 
----
-
 ## 📊 GitHub Stats
 
 <!-- ⚠️  Replace RushabhBramhade with your exact GitHub username in ALL lines below -->
@@ -188,8 +183,6 @@ CI/CD for AI models — automated training, model versioning, experiment trackin
 <img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=4" width="96%" />
 
 </div>
-
----
 
 ## 📬 Connect
 
