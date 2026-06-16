@@ -14,7 +14,7 @@
 
 <br/>
 
-I build production-grade AI systems — LLM applications, autonomous agents, and retrieval pipelines — deployed on real infrastructure.  
+I build production-grade AI systems LLM applications, autonomous agents, and retrieval pipelines deployed on real infrastructure.  
 My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 ---
