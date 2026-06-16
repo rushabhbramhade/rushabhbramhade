@@ -77,67 +77,72 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%" cellspacing="10" cellpadding="0" border="0">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<a href="#">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,60:302b63,100:24243e&height=140&section=header&text=Multi-Agent%20RAG%20System&fontSize=20&fontColor=ffffff&fontAlignY=50&desc=LangGraph%20%C2%B7%20FastAPI%20%C2%B7%20Qdrant%20%C2%B7%20Docker&descSize=12&descColor=a78bfa&descAlignY=72&animation=fadeIn" />
+</a>
 
-### 🤖 Multi-Agent RAG System
-> Production RAG pipeline with autonomous agents, hybrid retrieval, and reranking. Sub-200ms p95 latency on enterprise-scale document Q&A.
+**🤖 Multi-Agent RAG System**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark&perline=3" height="28"/>
-&nbsp;
-![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=a78bfa&color=161b22)
-![Qdrant](https://img.shields.io/badge/Qdrant-161b22?style=flat-square&color=161b22&logoColor=a78bfa)
+Production RAG pipeline with autonomous agents, hybrid retrieval, and reranking. Sub-200ms p95 latency at enterprise scale.
 
-[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="24"/>
+
+[![View Repository →](https://img.shields.io/badge/View%20Repository%20→-161b22?style=flat-square&logoColor=a78bfa&color=161b22)](#)
 
 </td>
 
-<td width="4%"></td>
+<td width="50%" valign="top" align="center">
+<a href="#">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,60:16213e,100:0f3460&height=140&section=header&text=LLM%20Backend%20API&fontSize=20&fontColor=ffffff&fontAlignY=50&desc=FastAPI%20%C2%B7%20PostgreSQL%20%C2%B7%20OpenAI%20%C2%B7%20AWS&descSize=12&descColor=60a5fa&descAlignY=72&animation=fadeIn" />
+</a>
 
-<td width="46%" valign="top">
+**⚙️ LLM Backend API**
 
-### ⚙️ LLM Backend API
-> Async API layer serving LLM features — streaming, structured output, rate limiting, and cost-aware model routing across OpenAI and Anthropic.
+Async API layer for LLM features — streaming, structured output, rate limiting, and cost-aware model routing across providers.
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,aws&theme=dark&perline=4" height="28"/>
-&nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=flat-square&logo=openai&logoColor=white&color=161b22)
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,aws&theme=dark" height="24"/>
 
-[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
+[![View Repository →](https://img.shields.io/badge/View%20Repository%20→-161b22?style=flat-square&color=161b22)](#)
 
 </td>
 
 </tr>
 
-<tr><td colspan="3"><br/></td></tr>
+<tr><td colspan="2"><br/></td></tr>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+<a href="#">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,60:1a1f35,100:0d2137&height=140&section=header&text=AI%20Evaluation%20Framework&fontSize=20&fontColor=ffffff&fontAlignY=50&desc=Python%20%C2%B7%20HuggingFace%20%C2%B7%20GitHub%20Actions&descSize=12&descColor=34d399&descAlignY=72&animation=fadeIn" />
+</a>
 
-### 🔬 AI Evaluation Framework
-> End-to-end LLM eval pipeline — automated test generation, retrieval benchmarking, and regression tracking across model versions via CI/CD.
+**🔬 AI Evaluation Framework**
 
-<img src="https://skillicons.dev/icons?i=python,githubactions&theme=dark&perline=2" height="28"/>
-&nbsp;
-![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E&color=161b22)
+End-to-end LLM eval pipeline — automated test generation, retrieval benchmarking, and regression tracking via CI/CD.
 
-[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
+<img src="https://skillicons.dev/icons?i=python,githubactions&theme=dark" height="24"/>
+
+[![View Repository →](https://img.shields.io/badge/View%20Repository%20→-161b22?style=flat-square&color=161b22)](#)
 
 </td>
 
-<td width="4%"></td>
+<td width="50%" valign="top" align="center">
+<a href="#">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a00,60:2d1810,100:1a0a00&height=140&section=header&text=MLOps%20Deployment%20Pipeline&fontSize=20&fontColor=ffffff&fontAlignY=50&desc=Docker%20%C2%B7%20AWS%20%C2%B7%20Linux%20%C2%B7%20GitHub%20Actions&descSize=12&descColor=fb923c&descAlignY=72&animation=fadeIn" />
+</a>
 
-<td width="46%" valign="top">
+**🚀 MLOps Deployment Pipeline**
 
-### 🚀 MLOps Deployment Pipeline
-> CI/CD for AI — automated training runs, model versioning, experiment tracking, and zero-downtime deployment to AWS ECS via GitHub Actions.
+CI/CD for AI models — automated training, model versioning, experiment tracking, and zero-downtime deploy to AWS ECS.
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions&theme=dark&perline=4" height="28"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions&theme=dark" height="24"/>
 
-[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
+[![View Repository →](https://img.shields.io/badge/View%20Repository%20→-161b22?style=flat-square&color=161b22)](#)
 
 </td>
 
