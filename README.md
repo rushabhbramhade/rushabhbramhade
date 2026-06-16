@@ -132,9 +132,9 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RushabhBramhade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RushabhBramhade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushabhBramhade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushabhBramhade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=1800&hide=html,css" />
 
 </div>
 
@@ -142,7 +142,7 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=RushabhBramhade&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=888888" />
+<img width="65%" src="https://streak-stats.demolab.com?user=RushabhBramhade&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=888888&card_width=600" />
 
 </div>
 
@@ -150,7 +150,7 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=4" width="90%" />
 
 </div>
 
