@@ -77,28 +77,72 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <br/>
 
-<div align="center">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
 
-[![Multi-Agent RAG System](https://github-readme-stats.vercel.app/api/pin/?username=RushabhBramhade&repo=multi-agent-rag&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e)](https://github.com/RushabhBramhade)
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent RAG System
+> Production RAG pipeline with autonomous agents, hybrid retrieval, and reranking. Sub-200ms p95 latency on enterprise-scale document Q&A.
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark&perline=3" height="28"/>
 &nbsp;
-[![LLM Backend API](https://github-readme-stats.vercel.app/api/pin/?username=RushabhBramhade&repo=llm-backend-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e)](https://github.com/RushabhBramhade)
+![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=a78bfa&color=161b22)
+![Qdrant](https://img.shields.io/badge/Qdrant-161b22?style=flat-square&color=161b22&logoColor=a78bfa)
 
-</div>
+[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
 
-<br/>
+</td>
 
-<div align="center">
+<td width="4%"></td>
 
-[![AI Evaluation Framework](https://github-readme-stats.vercel.app/api/pin/?username=RushabhBramhade&repo=ai-eval-framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e)](https://github.com/RushabhBramhade)
+<td width="46%" valign="top">
+
+### ⚙️ LLM Backend API
+> Async API layer serving LLM features — streaming, structured output, rate limiting, and cost-aware model routing across OpenAI and Anthropic.
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,aws&theme=dark&perline=4" height="28"/>
 &nbsp;
-[![MLOps Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=RushabhBramhade&repo=mlops-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e)](https://github.com/RushabhBramhade)
+![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=flat-square&logo=openai&logoColor=white&color=161b22)
 
-</div>
+[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
 
-<br/>
+</td>
 
-> 📌 **Create repos named exactly:** `multi-agent-rag` · `llm-backend-api` · `ai-eval-framework` · `mlops-pipeline`  
-> The pin cards above will auto-populate with your real stars, forks, and descriptions.
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔬 AI Evaluation Framework
+> End-to-end LLM eval pipeline — automated test generation, retrieval benchmarking, and regression tracking across model versions via CI/CD.
+
+<img src="https://skillicons.dev/icons?i=python,githubactions&theme=dark&perline=2" height="28"/>
+&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E&color=161b22)
+
+[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
+
+</td>
+
+<td width="4%"></td>
+
+<td width="46%" valign="top">
+
+### 🚀 MLOps Deployment Pipeline
+> CI/CD for AI — automated training runs, model versioning, experiment tracking, and zero-downtime deployment to AWS ECS via GitHub Actions.
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions&theme=dark&perline=4" height="28"/>
+
+[![View →](https://img.shields.io/badge/View%20Repository-a78bfa?style=flat-square&logoColor=white)](#)
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
@@ -106,13 +150,11 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 ## 📊 GitHub Stats
 
-<!-- ⚠️  Replace RushabhBramhade below with your exact GitHub username -->
+<!-- ⚠️  Replace RushabhBramhade with your exact GitHub username in ALL lines below -->
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RushabhBramhade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushabhBramhade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=1800&hide=html,css" />
+<img width="96%" src="https://streak-stats.demolab.com?user=RushabhBramhade&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa22&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&card_width=860&border_radius=12" />
 
 </div>
 
@@ -120,7 +162,9 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=RushabhBramhade&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=888888&card_width=600" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=RushabhBramhade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=c084fc&text_color=c9d1d9&rank_icon=github&cache_seconds=1800&border_radius=12" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushabhBramhade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=1800&hide=html,css,shell&border_radius=12" />
 
 </div>
 
@@ -128,7 +172,15 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=4" width="90%" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RushabhBramhade&bg_color=0d1117&color=a78bfa&line=c084fc&point=ffffff&area=true&area_color=a78bfa&hide_border=true&radius=12" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=4" width="96%" />
 
 </div>
 
@@ -141,15 +193,19 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img height="36" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" title="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:YOUR_EMAIL">
-  <img height="36" src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" title="Email" />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://YOUR_PORTFOLIO">
-  <img height="36" src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" title="Portfolio" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RushabhBramhade">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" title="GitHub" />
 </a>
 
 </div>
@@ -158,11 +214,9 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RushabhBramhade&style=flat-square&color=a78bfa&label=PROFILE+VIEWS&abbreviated=true" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20AI%20Roles-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-a78bfa?style=flat-square&logoColor=white" />
+![Profile Views](https://komarev.com/ghpvc/?username=RushabhBramhade&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS&abbreviated=true)
+&nbsp;
+![Status](https://img.shields.io/badge/Open_to-AI_Engineer_Roles-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -170,10 +224,7 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=a78bfa&center=true&vCenter=true&width=560&height=32&lines=Understand+the+Problem.+Build+the+Solution.+Scale+the+Impact." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=a78bfa&center=true&vCenter=true&width=560&height=32&lines=Understand+the+Problem.+Build+the+Solution.+Scale+the+Impact." />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=2000&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Understand+the+Problem.+%E2%80%94+Build+the+Solution.+%E2%80%94+Scale+the+Impact." alt="Motto" />
 
 </div>
 
