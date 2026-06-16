@@ -180,7 +180,6 @@ CI/CD for AI models — automated training, model versioning, experiment trackin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=4" width="96%" />
 
 </div>
 
