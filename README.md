@@ -150,7 +150,7 @@ My focus is on what ships: reliable, observable, and maintainable AI at scale.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=4" width="90%" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=RushabhBramhade&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=4" width="90%" /> -->
 
 </div>
 
