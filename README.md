@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Rushabh%20Bramhade&fontSize=38&fontColor=ffffff&fontAlignY=65&desc=Applied%20AI%20Engineer&descSize=16&descAlignY=85&descColor=a78bfa" width="100%" />
 
